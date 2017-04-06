@@ -1,0 +1,56 @@
+/* Default styling block for Calendar [Monthly]
+ *
+ * If you wish to create a custom style, please edit the styleCustom.css file
+ */
+
+#calendar-table {
+	padding: 5px;
+	display: table;
+	width: 100%;
+}
+
+#calendar-th {
+	font-weight: bold;
+	text-align: center;
+	font-size: 1.4em;
+	padding-bottom: 7px;
+	border-bottom: 1px solid #ffffff;
+color: #ffffff;
+}
+
+.calendar-header-day {
+font-weight: bold;
+	text-align: center;
+	color: #ffffff;
+	margin: 2px 0px;
+	padding-top: 7px;
+color: #ffffff;
+}
+
+.calendar-day {
+font-weight: bold;
+	text-align: center;
+	width: 14.2%;
+color: #ffffff;
+}
+
+.monthPrev {
+font-weight: bold;
+	color: #888;
+}
+
+.monthNext {
+font-weight: bold;
+	color: #888;
+}
+
+.square-content .today {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.footer {
+	text-align: center;
+	font-size: 0.9em;
+	line-height: 1.2em;
+}
