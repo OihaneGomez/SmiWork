@@ -1,12 +1,12 @@
 
-# SmiWork: An interactive Smart Mirror Platform for Workplace Healt Promoion
+# SmiWork: An interactive Smart Mirror Platform for Workplace Healt Promotion
 
 Based on:  [Magic Mirror by Michael Teeuw](https://magicmirror.builders/)
 
 
 
 
-Original modules:
+New modules:
 
 
  
