@@ -1,5 +1,5 @@
 
-# SmiWork: An interactive Smart Mirror Platform for Workplace Healt Promotion
+# SmiWork: An interactive Smart Mirror Platform for Workplace Health Promotion
 
 Based on:  [Magic Mirror by Michael Teeuw](https://magicmirror.builders/)
 
